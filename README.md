@@ -1,11 +1,18 @@
-### SolanaFactory 🏭 Smart Crypto Trading Bot
+<h1  align="center"> SolanaFactory 🏭 Smart Crypto Trading Bot </h1>
 
-[![Telegram](https://img.shields.io/badge/Telegram-SolanaFactory-darkgreen?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SolFactory_bot)
+### 📘 Introduction 📘
+**SolanaFactory 🏭** is a versatile Telegram trading bot designed for managing cryptocurrency wallets and conducting various trading operations. It supports transactions on PUMP.FUN and Raydium platforms, providing users with powerful tools for launching and promoting their tokens. With features like token sniper, SOL to USD conversion, Jupiter integration, leveraging PUMP.FUN and Raydium, sniper bot, Solana MEV bot, SOL trading bot, Solana snipe bot, and copy trading capabilities, SolanaFactory becomes an indispensable assistant for optimizing and managing cryptocurrency investments.
 
-### 📘 Introduction 📘 
-**SolanaFactory 🏭** is a powerful bot designed for managing cryptocurrency wallets and performing various trading operations. It supports trading on PUMP.FUN and Raydium platforms, offering users extensive capabilities for launching and promoting their tokens.
+![logo](readme/logo.png)
+[![Telegram](https://img.shields.io/badge/Telegram-SolanaFactory-darkgreen?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SolanaFactory)
 
-### Architecture 
+
+<div align="center">
+  <video src="https://github.com/SolApiDev/Solana-bot-factory/assets/170317926/78fcdaff-8ad2-40d9-845d-fd8d18466b77"/>
+</div>
+
+
+### Send "TRIAL" to the [@SolFactory_bot](https://t.me/SolFactory_bot) to enjoy a 30-minute trial and experience all its features ❗️
 
 ### 🔑 Key Features 🔑
 #### Multiple Wallets (Wallet Sets) 📂
@@ -73,10 +80,10 @@ After purchase, you will receive a detailed manual on the bot and its functional
 ### 💲 Prices:
 - **Subscription**: 10 SOL for a monthly subscription.
 - **Source Code**: 25 SOL for the source code.
-- **Trial Version**: 30-minute trial available upon request via [@SolanaFactory_bot](https://t.me/SolanaFactory_bot).
+- **Trial Version**: 30-minute trial available upon request via [@SolFactory_bot](https://t.me/SolFactory_bot).
 
 ### Conclusion 🔚
 **SolanaFactory 😈** provides all the necessary tools for successful trading on PUMP.FUN and Raydium, including token launches, organic volume creation, token promotion, and sniper protection. It is a powerful and user-friendly bot for managing cryptocurrency operations.
 
-To get started, contact the bot [@SolanaFactory_bot](https://t.me/SolanaFactory_bot) for access and detailed instructions.
+To get started, contact the bot [@SolFactory_bot](https://t.me/SolFactory_bot) for access and detailed instructions.
 
