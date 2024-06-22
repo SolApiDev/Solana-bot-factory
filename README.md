@@ -1,7 +1,6 @@
 <h1  align="center"> SolanaFactory 🏭 Smart Crypto Trading Bot </h1>
 
-### 📘 Introduction 📘
-**SolanaFactory 🏭** is a versatile Telegram trading bot designed for managing cryptocurrency wallets and conducting various trading operations. It supports transactions on PUMP.FUN and Raydium platforms, providing users with powerful tools for launching and promoting their tokens. With features like token sniper, SOL to USD conversion, Jupiter integration, leveraging PUMP.FUN and Raydium, sniper bot, Solana MEV bot, SOL trading bot, Solana snipe bot, and copy trading capabilities, SolanaFactory becomes an indispensable assistant for optimizing and managing cryptocurrency investments.
+Solana Bot includes a token sniper, autotrade, and integration with Raydium and PUMP.FUN. It replaces BonkBot and Unibot, providing tools for managing crypto wallets and trading. Key features: solana copy trading, solana volume bot, solana-sniping-bot. The best solana trading bot for all your needs
 
 ![logo](readme/logo.png)
 [![Telegram](https://img.shields.io/badge/Telegram-SolanaFactory-darkgreen?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SolanaFactory)
